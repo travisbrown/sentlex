@@ -46,10 +46,11 @@ import qualified Data.Map as M
 import qualified Data.Set as S
 
 -- First some applicative stuff to make working with parser output nicer.
-instance Applicative (Either a) where
+{-instance Applicative (Either a) where
   pure = Right
   Left f  <*> _ = Left f
   Right f <*> x = fmap f x
+-}
 
 x <++> y = (++) <$> x <*> y
 
