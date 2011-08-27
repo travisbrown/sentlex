@@ -1,0 +1,12 @@
+yesterday,r
+today,r
+monthly,r
+physically,r
+quickly,r
+slowly,r
+sensibly,r
+colorfully,r
+spatially,r
+temporally,r
+metaphysically,r
+geographically,r

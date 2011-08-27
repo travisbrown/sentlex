@@ -1,0 +1,15 @@
+definitely,r
+absolutely,r
+totally,r
+surely,r
+clearly,r
+positively,r
+perfectly,r
+utterly,r
+wholly,r
+entirely,r
+completely,r
+distinctly,r
+decidedly,r
+unquestionably,r
+emphatically,r

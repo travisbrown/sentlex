@@ -1,0 +1,12 @@
+about,a
+likely,a
+unlikely,a
+possible,a
+apparent,a
+probable,a
+approximate,a
+consistent,a
+most,a
+unsure,a
+doubtful,a
+unclear,a
