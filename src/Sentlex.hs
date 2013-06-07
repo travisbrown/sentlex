@@ -55,7 +55,7 @@ relevant (ws,w) | all ((==0.0) . snd) ws = (ws,w)
             nc = (avg $ map snd $ filter ((>=oc) . snd) ws) / 2.0
 
 
-multiply :: (Fractional a) => Dictionary -> (Relation -> a) -> Array Int a -> Array Int a
+multiply :: (Eq a, Fractional a) => Dictionary -> (Relation -> a) -> Array Int a -> Array Int a
 multiply d s v = accumArray (+) 0.0 (bounds v) $ expand v
   where
     nonzero (i,e) = e /= 0.0

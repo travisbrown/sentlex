@@ -6,7 +6,7 @@ import Data.List (groupBy,nub,sort,sortBy)
 import Data.Maybe
 import qualified Data.Map as M
 import qualified Data.Set as S
-import System (getArgs)
+import System.Environment (getArgs)
 import Text.ParserCombinators.Parsec
 import Text.Printf
 import Sentlex

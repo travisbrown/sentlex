@@ -1,0 +1,9 @@
++,friend,n
++,pal,n
++,partner,n
++,neighborly,a
++,friendly,a
++,love,n
+-,enemy,n
+-,hate,n
+-,hate,v
